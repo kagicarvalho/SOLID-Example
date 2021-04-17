@@ -1,0 +1,6 @@
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\IspDepois\obj\Debug\AfterIsp.csproj.CoreCompileInputs.cache
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\IspDepois\bin\Debug\IspDepois.exe.config
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\IspDepois\bin\Debug\IspDepois.exe
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\IspDepois\bin\Debug\IspDepois.pdb
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\IspDepois\obj\Debug\IspDepois.exe
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\IspDepois\obj\Debug\IspDepois.pdb

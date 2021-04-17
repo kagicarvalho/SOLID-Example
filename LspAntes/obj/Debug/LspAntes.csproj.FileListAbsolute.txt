@@ -1,0 +1,7 @@
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\LspAntes\bin\Debug\LspAntes.exe.config
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\LspAntes\bin\Debug\LspAntes.exe
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\LspAntes\bin\Debug\LspAntes.pdb
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\LspAntes\obj\Debug\LspAntes.csprojAssemblyReference.cache
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\LspAntes\obj\Debug\LspAntes.csproj.CoreCompileInputs.cache
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\LspAntes\obj\Debug\LspAntes.exe
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\LspAntes\obj\Debug\LspAntes.pdb

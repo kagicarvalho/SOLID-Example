@@ -1,0 +1,7 @@
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\Isp\bin\Debug\Isp.exe.config
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\Isp\bin\Debug\Isp.exe
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\Isp\bin\Debug\Isp.pdb
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\Isp\obj\Debug\Isp.csprojAssemblyReference.cache
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\Isp\obj\Debug\Isp.csproj.CoreCompileInputs.cache
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\Isp\obj\Debug\Isp.exe
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\Isp\obj\Debug\Isp.pdb

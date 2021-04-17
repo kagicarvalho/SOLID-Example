@@ -1,0 +1,7 @@
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\AfterDip\bin\Debug\AfterDip.exe.config
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\AfterDip\bin\Debug\AfterDip.exe
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\AfterDip\bin\Debug\AfterDip.pdb
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\AfterDip\obj\Debug\AfterDip.csprojAssemblyReference.cache
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\AfterDip\obj\Debug\AfterDip.csproj.CoreCompileInputs.cache
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\AfterDip\obj\Debug\AfterDip.exe
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\AfterDip\obj\Debug\AfterDip.pdb

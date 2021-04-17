@@ -1,0 +1,7 @@
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\DipBefore\bin\Debug\DipBefore.exe.config
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\DipBefore\bin\Debug\DipBefore.exe
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\DipBefore\bin\Debug\DipBefore.pdb
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\DipBefore\obj\Debug\DipBefore.csprojAssemblyReference.cache
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\DipBefore\obj\Debug\DipBefore.csproj.CoreCompileInputs.cache
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\DipBefore\obj\Debug\DipBefore.exe
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\DipBefore\obj\Debug\DipBefore.pdb

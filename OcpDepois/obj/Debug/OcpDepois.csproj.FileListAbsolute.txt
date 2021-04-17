@@ -1,0 +1,6 @@
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\OcpDepois\bin\Debug\OcpDepois.exe.config
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\OcpDepois\bin\Debug\OcpDepois.exe
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\OcpDepois\bin\Debug\OcpDepois.pdb
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\OcpDepois\obj\Debug\OcpDepois.csproj.CoreCompileInputs.cache
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\OcpDepois\obj\Debug\OcpDepois.exe
+C:\Users\kagic\source\repos\SolidHcode\SRP\Solid\OcpDepois\obj\Debug\OcpDepois.pdb
