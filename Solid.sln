@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SrpDepois", "Srp\SrpDepois.csproj", "{2F47E0E3-2B41-4060-B47A-9456773A06AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfterSrp", "Srp\AfterSrp.csproj", "{2F47E0E3-2B41-4060-B47A-9456773A06AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcpAntes", "Ocp\OcpAntes.csproj", "{0B432C28-0B88-48AE-A074-D8156ADCC52E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeforeOcp", "Ocp\BeforeOcp.csproj", "{0B432C28-0B88-48AE-A074-D8156ADCC52E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcpDepois", "OcpDepois\OcpDepois.csproj", "{37CBD28D-56ED-47B3-B47E-DC212BD6C825}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfterOcp", "OcpDepois\AfterOcp.csproj", "{37CBD28D-56ED-47B3-B47E-DC212BD6C825}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcpInterface", "OcpInterface\OcpInterface.csproj", "{13C5EA98-8B72-49D2-B93E-B9CEA2608672}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfterOcpWithInterface", "OcpInterface\AfterOcpWithInterface.csproj", "{13C5EA98-8B72-49D2-B93E-B9CEA2608672}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - OCP", "2 - OCP", "{CE1664B0-03CB-4578-B4BD-87E594BE3130}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - SRP", "1 - SRP", "{98D51BCA-EA3F-4D79-8DCC-39881B72D140}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SrpAntes", "SrpAntes\SrpAntes.csproj", "{9E9B12AE-3C99-42FD-9CE0-7584D9053758}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeforeSrp", "SrpAntes\BeforeSrp.csproj", "{9E9B12AE-3C99-42FD-9CE0-7584D9053758}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - LSP", "3 - LSP", "{7CC8EE60-E075-4AF8-9B57-B7F9E379008A}"
 EndProject

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Srp.Utils
+namespace Srp
 {
     class Client
     {
